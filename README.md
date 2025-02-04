@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Natalie and I'm currently a Year 2 Information Technology diploma Student.</p>
+<p align="left">I'm Natalie!</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Transforming data into insights, one line of code at a time</p>
+<p align="left">I'm currently a Year 2 Information Technology diploma Student and I'm interested in transforming data into insights, one line of code at a time</p>
 
 ###
 
