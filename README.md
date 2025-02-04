@@ -40,7 +40,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
 
-###
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
