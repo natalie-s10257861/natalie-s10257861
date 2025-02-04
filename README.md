@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Natalie!</p>
+<p align="left">I'm Natalie</p>
 
 ###
 
