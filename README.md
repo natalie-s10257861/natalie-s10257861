@@ -6,14 +6,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left"> I'm passionate in transforming data into insights, one line of code at a time</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
